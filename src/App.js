@@ -1,6 +1,8 @@
 // import logo from './logo.svg';
 // import './App.css';
 
+import ContactSection from "./sections/ContactSection";
+import Footer from "./sections/Footer";
 import Hero from "./sections/Hero";
 import HireTextSection from "./sections/HireTextSection";
 import OurWorkSection from "./sections/OurWorkSection";
@@ -17,6 +19,8 @@ function App() {
       <OurWorkSection />
       <PackagesSection />
       <HireTextSection />
+      <ContactSection />
+      <Footer />
     </div>
   );
 }
