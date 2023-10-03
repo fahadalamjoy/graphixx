@@ -29,10 +29,10 @@ export default function Footer() {
             <div className='py-2'>
                 <h1 className='lg:text-2xl text-xl text-center'>Find Us On</h1>
                 <div className='flex justify-center gap-4 py-4'>
-                    <a href='https://x.com/graphix_ltd?s=21' target='_blank'> <img src={Twitter} alt='logo' /></a>
-                    <a href='http://facebook.com/graphixlgs' target='_blank'> <img src={Facebook} alt='logo' /></a>
-                    <a href='http://instagram.com/graphix.uk/' target='_blank'> <img src={Insta} alt='logo' /></a>
-                    <a href='https://www.linkedin.com/company/graphix-ltd/' target='_blank' > <img src={Linkedin} alt='logo' /></a>
+                    <a href='https://x.com/graphix_ltd?s=21' target='_blank' rel='noreferrer'> <img src={Twitter} alt='logo' /></a>
+                    <a href='http://facebook.com/graphixlgs' target='_blank' rel='noreferrer'> <img src={Facebook} alt='logo' /></a>
+                    <a href='http://instagram.com/graphix.uk/' target='_blank' rel='noreferrer'> <img src={Insta} alt='logo' /></a>
+                    <a href='https://www.linkedin.com/company/graphix-ltd/' target='_blank' rel='noreferrer'> <img src={Linkedin} alt='logo' /></a>
                 </div>
             </div>
         </div>
