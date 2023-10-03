@@ -18,11 +18,11 @@ export default function ContactSection() {
             <div className='flex gap-4'>
               <div>
                 <p className='text-base font-light'>Name</p>
-                <input className='bg-white border-b-2 border-black focus:border-transparent outline-none' type="text" />
+                <input className='bg-white border-b-2 w-full border-black focus:border-transparent outline-none' type="text" />
               </div>
               <div>
                 <p className='text-base font-light'>Email</p>
-                <input className='bg-white border-b-2 border-black focus:border-transparent outline-none' type="text" />
+                <input className='bg-white border-b-2 w-full border-black focus:border-transparent outline-none' type="text" />
               </div>
             </div>
             <div>

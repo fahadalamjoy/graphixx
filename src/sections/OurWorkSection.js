@@ -12,7 +12,7 @@ import P9 from '../assets/p9.png'
 export default function OurWorkSection() {
   return (
     <section className=' bg-white h-full   '>
-        <h1 className='lg:text-4xl text-2xl text-center text-black pt-6'>Have a look at some of our work!</h1>
+        <h1 className='lg:text-4xl text-xl text-center text-black pt-6'>Have a look at some of our work!</h1>
         <div className='container mx-auto px-4 flex flex-col gap-8 justify-center items-center py-12'>
             <div className='grid lg:grid-cols-3 grid-cols-1 gap-6'>
                 <div className='flex justify-center lg:pl-8 pl-0'><img src={P1} alt='skilImage' /></div>
