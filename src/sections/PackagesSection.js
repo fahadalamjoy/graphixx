@@ -23,9 +23,9 @@ export default function PackagesSection() {
                 <h1 className='pt-1'>Basic</h1>
                 <h1 className='text-2xl'>£89/mo</h1>
                 <div className='pt-4'>
-                    <h1>9 Contents /mo</h1>
-                    <h1>£20 for SEO Service</h1>
-                    <h1 className='text-xs'>£10 for Social Media Posting</h1>
+                    <h1 className='text-2xl'>9 Contents /mo</h1>
+                    {/* <h1>£20 for SEO Service</h1>
+                    <h1 className='text-xs'>£10 for Social Media Posting</h1> */}
                 </div>
             </div>
             <div className='bg-black lg:w-3/12 w-full text-white flex flex-col items-center p-16 text-center font-bold' style={triangle}>
@@ -33,9 +33,9 @@ export default function PackagesSection() {
                 <h1 className='pt-1'>Standard</h1>
                 <h1 className='text-2xl'>£89/mo</h1>
                 <div className='pt-4'>
-                    <h1>9 Contents /mo</h1>
-                    <h1>£20 for SEO Service</h1>
-                    <h1 className='text-xs'>£10 for Social Media Posting</h1>
+                    <h1 className='text-2xl'>9 Contents /mo</h1>
+                    {/* <h1>£20 for SEO Service</h1>
+                    <h1 className='text-xs'>£10 for Social Media Posting</h1> */}
                 </div>
             </div>
             <div className='bg-black lg:w-3/12 w-full text-white flex flex-col items-center p-16 text-center font-bold'>
@@ -43,9 +43,9 @@ export default function PackagesSection() {
                 <h1 className='pt-1'>Pro</h1>
                 <h1 className='text-2xl'>£89/mo</h1>
                 <div className='pt-4'>
-                    <h1>9 Contents /mo</h1>
-                    <h1>£20 for SEO Service</h1>
-                    <h1 className='text-xs'>£10 for Social Media Posting</h1>
+                    <h1 className='text-2xl'>9 Contents /mo</h1>
+                    {/* <h1>£20 for SEO Service</h1>
+                    <h1 className='text-xs'>£10 for Social Media Posting</h1> */}
                 </div>
             </div>
         </div>
