@@ -5,13 +5,13 @@ import Pro from '../assets/pro.png'
 
 
 export default function PackagesSection() {
-    const triangle = {
-        clipPath: "polygon(50% 0%, 0% 100%, 100% 100%)",
-      };
+    // const triangle = {
+    //     clipPath: "polygon(50% 0%, 0% 100%, 100% 100%)",
+    //   };
     
-    const rounded = {
-        clipPath: "circle(50% at 50% 50%)",
-      };
+    // const rounded = {
+    //     clipPath: "circle(50% at 50% 50%)",
+    //   };
     
   return (
     <section className='bg-white h-full flex flex-col justify-center py-6'>
